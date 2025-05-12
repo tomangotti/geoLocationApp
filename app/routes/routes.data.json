@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Denver Art Museum",
+        "address": "100 W 14th Ave Pkwy, Denver, CO 80204"
+    },
+    {
+        "id": 2,
+        "name": "Red Rocks Amphitheatre",
+        "address": "18300 W Alameda Pkwy, Morrison, CO 80465"
+    },
+    {
+        "id": 3,
+        "name": "Union Station",
+        "address": "1701 Wynkoop St, Denver, CO 80202"
+    },
+    {
+        "id": 4,
+        "name": "Denver Zoo",
+        "address": "2300 Steele St, Denver, CO 80205"
+    },
+    {
+        "id": 5,
+        "name": "Coors Field",
+        "address": "2001 Blake St, Denver, CO 80205"
+    },
+    {
+        "id": 6,
+        "name": "Google HQ",
+        "address": "1600 Amphitheatre Parkway, Mountain View, CA 94043"
+    }
+]
