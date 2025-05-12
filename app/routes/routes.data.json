@@ -1,5 +1,30 @@
 [
     {
+        "id": 7,
+        "name": "Excel Driving Services - Henderson, CO",
+        "address": "9695 Brighton Rd Henderson, CO 80640"
+    },
+    {
+        "id": 8,
+        "name": "Excel Driving Services - Colorado Springs, CO",
+        "address": "3465 Astrozon Place Colorado Springs, CO 80910"
+    },
+    {
+        "id": 9,
+        "name": "Excel Driving Services - Converse, TX",
+        "address": "10202 I-10 Frontage Rd, Converse, TX 78154"
+    },
+    {
+        "id": 6,
+        "name": "Coors Brewery",
+        "address": "13th St & Ford St, Golden, CO 80401"
+    }, 
+    {
+        "id": 5,
+        "name": "Coors Field",
+        "address": "2001 Blake St, Denver, CO 80205"
+    },
+    {
         "id": 1,
         "name": "Denver Art Museum",
         "address": "100 W 14th Ave Pkwy, Denver, CO 80204"
@@ -18,15 +43,7 @@
         "id": 4,
         "name": "Denver Zoo",
         "address": "2300 Steele St, Denver, CO 80205"
-    },
-    {
-        "id": 5,
-        "name": "Coors Field",
-        "address": "2001 Blake St, Denver, CO 80205"
-    },
-    {
-        "id": 6,
-        "name": "Google HQ",
-        "address": "1600 Amphitheatre Parkway, Mountain View, CA 94043"
     }
+    
+    
 ]

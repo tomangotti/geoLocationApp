@@ -59,6 +59,16 @@ export default function RootLayout() {
             headerTintColor: '#fff',
           }}
         />
+        <Stack.Screen
+          name="trip/[id]"
+          options={{
+            title: 'Trip Details',
+            headerStyle: {
+              backgroundColor: '#f4511e',
+            },
+            headerTintColor: '#fff',
+          }}
+        />
       </Stack>
     </LocationProvider>
   );
